@@ -1,3 +1,5 @@
+package PrintingWords;
+
 import lombok.AllArgsConstructor;
 import lombok.SneakyThrows;
 
