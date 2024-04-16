@@ -1,3 +1,4 @@
+import BoundedBlockingQueue.BlockingQueueRunner;
 import Odd_Even.EvenOddRunner;
 import Odd_Even.EvenPrinter;
 import Odd_Even.OddPrinter;
@@ -10,7 +11,7 @@ public class Main {
 
     public static void main(String[] args){
 
-        EvenOddRunner.run();
+        BlockingQueueRunner.run();
 
     }
 }
