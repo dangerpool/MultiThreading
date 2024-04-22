@@ -1,8 +1,5 @@
 package Message_Broker;
 
-import SQS.AdditionConsumer;
-import SQS.CalculationMessage;
-import SQS.SubtractionConsumer;
 import lombok.SneakyThrows;
 
 import java.util.List;

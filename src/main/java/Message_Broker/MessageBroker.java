@@ -1,10 +1,5 @@
 package Message_Broker;
 
-import SQS.CalculationMessage;
-import SQS.IConsumer;
-import SQS.SQSQueue;
-
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
